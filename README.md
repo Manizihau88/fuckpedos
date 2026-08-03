@@ -1,3 +1,3 @@
 # FUCK PEDOS
 
-We do NOT support CSAM content and anything sexual related to minors. This is why we're making it easier to trace people who download and distribute such content via Torrent networks using Iknowwhatyoudownload.com public information on wrongfully unmarked torrents that expose IPs.
+We do NOT support CSAM content and anything sexual related to minors. This is why we're making it easier to trace people who download and distribute such content via Torrent networks using Iknowwhatyoudownload.com public information on wrongfully unmarked torrents that expose IPs. (NOTE: We cannot fully guarantee that all ips presented in the list actually downloaded or shared the content inside torrent file, because of ip-spoofing and other techniques that may not always mean that the actual ip is related to illegal content, HOWEVER cases like that are pretty rare, and usually the ips are somehow related to the crime)
